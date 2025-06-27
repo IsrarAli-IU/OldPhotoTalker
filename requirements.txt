@@ -1,0 +1,9 @@
+torch>=1.13.0
+opencv-python
+gfpgan
+gtts
+moviepy
+flask
+gunicorn
+numpy
+ffmpeg-python
